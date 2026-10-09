@@ -49,6 +49,26 @@ KRaft запущен в комбинированном режиме.
 
 ![alt text](image-7.png)
 
+
+
+## Создание топика, получение данных и работа с Registry
+
+![alt text](image-8.png)
+
+
+
+## Скриншоты из Kafka-UI
+
+![alt text](image-9.png)
+
+
+![alt text](image-10.png)
+
+
+![alt text](image-11.png)
+
+
+
 ### Примечание
 
 Ресурсы создаются в Казахстане, в связи с недоступностью сервиса Kafka в RU-сегменте Yandex Cloud.
